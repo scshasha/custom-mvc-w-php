@@ -1,4 +1,5 @@
 # Custom PHP MVC Application
+![PHP Composer](https://github.com/scshasha/custom-mvc-w-php/workflows/PHP%20Composer/badge.svg)
 
 ## Basic Requirements
 
