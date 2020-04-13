@@ -1,33 +1,45 @@
 {
-  "authors": [{
-    "name": "Siv Shasha",
-    "email": "scshaha@icloud.com",
-    "homepage": "https://github.com/scshaha",
-    "role": "Developer"
-  }],
-  "type": "application",
-  "require": {
-    "php": "^7.0"
-  },
-  "autoload": {
-    "classmap": [
+    "name": "sivshasha/my-mvc-app",
+    "description": "MVC with php example application.",
+    "type": "project",
+    "require": {
+      "php": "^7.1",
+        "scssphp/scssphp": "^1.0",
+        "fortawesome/font-awesome": "^5.13",
+        "twitter/bootstrap": "^4.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Siv Shasha",
+            "email": "shasha.christopher@gmail.com"
+        }
+    ],
+    "autoload": {
+      "classmap": [
 
-    ],
-    "files": [
-      "src/init.php"
-    ],
-    "psr-4": {
-      "App\\": "src/",
-      "App\\Core\\": "src/Core/",
-      "App\\Controller\\": "src/Controller/",
-      "App\\Model\\": "src/Model/",
-      "App\\Presenter\\": "src/Presenter/",
-      "App\\Utility\\": "src/Utility/"
+      ],
+      "files": [
+        "src/init.php"
+      ],
+      "psr-4": {
+        "App\\": "src/",
+        "App\\Core\\": "src/Core/",
+        "App\\Controller\\": "src/Controller/",
+        "App\\Model\\": "src/Model/",
+        "App\\Presenter\\": "src/Presenter/",
+        "App\\Utility\\": "src/Utility/"
+      },
+      "exclude-from-classmap": [
+      ]
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "App\\Tests\\": "tests/"
+      }
     }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "App\\Tests\\": "tests/"
-    }
-  }
 }
+  
