@@ -2,3 +2,5 @@
 .idea
 src/*.old
 vendor
+public/assets/images/
+public/uploads/
