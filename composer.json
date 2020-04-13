@@ -1,12 +1,21 @@
 {
+  "authors": [{
+    "name": "Siv Shasha",
+    "email": "scshaha@icloud.com",
+    "homepage": "https://github.com/scshaha",
+    "role": "Developer"
+  }],
   "type": "application",
   "require": {
     "php": "^7.0"
   },
-  "classmap": {
-
-  },
   "autoload": {
+    "classmap": [
+
+    ],
+    "files": [
+      "src/init.php"
+    ],
     "psr-4": {
       "App\\": "src/",
       "App\\Core\\": "src/Core/",
