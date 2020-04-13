@@ -1,0 +1,24 @@
+{
+  "type": "application",
+  "require": {
+    "php": "^7.0"
+  },
+  "classmap": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/",
+      "App\\Core\\": "src/Core/",
+      "App\\Controller\\": "src/Controller/",
+      "App\\Model\\": "src/Model/",
+      "App\\Presenter\\": "src/Presenter/",
+      "App\\Utility\\": "src/Utility/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "App\\Tests\\": "tests/"
+    }
+  }
+}

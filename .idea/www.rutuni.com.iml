@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/Controller" isTestSource="false" packagePrefix="App\Controller\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Core" isTestSource="false" packagePrefix="App\Core\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Presenter" isTestSource="false" packagePrefix="App\Presenter\" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Utility" isTestSource="false" packagePrefix="App\Utility\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Model" isTestSource="false" packagePrefix="App\Model\" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="popper" level="application" />
+    <orderEntry type="library" name="jquery-3.4.1" level="application" />
+    <orderEntry type="library" name="font-awesome" level="application" />
+  </component>
+</module>

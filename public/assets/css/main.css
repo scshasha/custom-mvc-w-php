@@ -1,0 +1,159 @@
+    /*$header-nav-bg-color: #4267b2;
+    $header-nav-border-bottom-color: #29487d;*/
+/*
+body { 
+    -webkit-font-smoothing: antialiased; 
+    text-rendering: optimizeLegibility; 
+    font-family: 'Overpass', sans-serif; 
+    letter-spacing: 0px; 
+    font-size: 17px; 
+    color: #8d8f90; 
+    font-weight: 400; 
+    line-height: 32px; 
+    background-color: #edefef; 
+}
+h1, h2, h3, h4, h5, h6 { 
+    color: #25292a; 
+    margin: 0px 0px 10px 0px; 
+    font-family: 'Overpass', sans-serif; 
+    font-weight: 700; 
+    letter-spacing: -1px; 
+    line-height: 1; 
+}
+h1 { 
+    font-size: 34px; 
+}
+h2 { 
+    font-size: 28px; line-height: 38px; 
+}
+h3 { 
+    font-size: 22px; line-height: 32px; 
+}
+h4 { 
+    font-size: 20px; 
+}
+h5 { 
+    font-size: 17px; 
+}
+h6 { 
+    font-size: 12px; 
+}
+p { 
+    margin: 0 0 20px; 
+    line-height: 1.7; 
+}
+p:last-child { 
+    margin: 0px; 
+}
+ul, ol { }
+a { 
+    text-decoration: none; 
+    color: #8d8f90; 
+    -webkit-transition: all 0.3s; 
+    -moz-transition: all 0.3s; 
+    transition: all 0.3s; 
+}
+a:focus, a:hover { 
+    text-decoration: none; 
+    color: #f85759; 
+}*/
+.page-header { 
+    /*background: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080') no-repeat; */
+    /*background: url('https://startbootstrap.com/assets/img/overlay.svg'),linear-gradient(45deg,#ffb800 0%,#e6a600 100%); */
+    /*background: url('https://easetemplate.com/free-website-templates/hike/images/pageheader.jpg') no-repeat; */
+    /*background: url('https://www.wendyshow.com/wp-content/uploads/2020/02/7DatingTrends_feature_GettyImages-869321258.jpg') no-repeat; */
+    /*background: url('https://www.todaysparent.com/wp-content/uploads/2011/11/Why-you-should-hug-your-partnerNov2011-istock.JPG') no-repeat; */
+    background: url('https://img.huffingtonpost.com/asset/5c2a957c2400009a0758b56f.jpeg') no-repeat; 
+    background-position: center;
+    background-size: cover; 
+    object-fit: contain;
+    position: relative; 
+}
+.page-caption { 
+    padding-top: 170px; padding-bottom: 174px; 
+}
+.page-title { 
+    font-size: 46px; line-height: 1; color: #fff; font-weight: 600; text-align: center; 
+}
+
+.card-section { 
+    position: relative; bottom: 60px; 
+}
+.card-block { 
+    padding: 80px; 
+}
+.section-title { 
+    margin-bottom: 60px; 
+}
+
+form.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+form.form-signin .checkbox {
+    font-weight: 400;
+}
+form.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+form.form-signin .form-control:focus {
+    z-index: 2;
+}
+form.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+form.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.blog-post {
+    margin-bottom: 4rem;
+}
+
+nav.navbar {
+    height: 40px;
+    font-size: 12px;
+    background: #4267b2 !important;
+    border-bottom: 1px solid #29487d !important;
+}
+
+.navbar a {
+    color: #eaeaea !important;
+}
+
+.dropdown-menu a {
+    color: rgba(0,0,0,.9) !important;
+}
+
+
+#footer {
+    /*position: absolute;*/
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: #fff;
+}
+
+#footer img {
+    max-width: 100%;
+    height: 90px;
+    width: auto;
+}
+
+.copy-right {
+    border-top: 1px solid #efefef;
+}
+
+.content {
+    min-height: 100%;
+}

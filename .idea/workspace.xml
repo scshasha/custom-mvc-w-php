@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="SHOW_STRUCTURE" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5da34b6e-2be2-472f-bbfd-449ef1e606b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="www.squard.io" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ZZh5FYTtJFcz1yAkoMTFe50ag9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5da34b6e-2be2-472f-bbfd-449ef1e606b0" name="Default Changelist" comment="" />
+      <created>1585763807547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585763807547</updated>
+      <workItem from="1585763910216" duration="327000" />
+      <workItem from="1585765614535" duration="49890000" />
+      <workItem from="1585901703720" duration="17997000" />
+      <workItem from="1585935893790" duration="17320000" />
+      <workItem from="1586034010582" duration="308000" />
+      <workItem from="1583356167250" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585946376389">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="279" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1585946376389" />
+    <state x="417" y="126" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1585943954682">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="417" y="126" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1585943954682" />
+    <state x="445" y="242" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585848511676">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="445" y="242" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1585848511676" />
+    <state x="430" y="185" key="NewPhpClassDialog" timestamp="1585920404945">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="430" y="185" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1585920404945" />
+    <state x="169" y="25" key="SettingsEditor" timestamp="1585788664253">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="169" y="25" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585788664253" />
+    <state x="314" y="66" width="737" height="606" key="find.popup" timestamp="1585848227745">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="314" y="66" width="737" height="606" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1585848227745" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1585783038969">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1585783038969" />
+  </component>
+</project>
